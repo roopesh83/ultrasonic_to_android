@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "226336127439",
+    "firebase_url": "https://smartebin-7f938.firebaseio.com",
+    "project_id": "smartebin-7f938",
+    "storage_bucket": "smartebin-7f938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226336127439:android:38ffadb1b5b7bd04",
+        "android_client_info": {
+          "package_name": "com.felhr.serialportexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226336127439-nk0nr4uled1pv1im1ppikqoj1nupo1qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.felhr.serialportexample",
+            "certificate_hash": "51215f0c7aab25c9533fe5b671d7776d952a14bf"
+          }
+        },
+        {
+          "client_id": "226336127439-h12dtvt2cqt1is7sprcqe90dro3d6e2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVg6W_Lv0I_02E9_ptOlaz_pcoSISQgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226336127439-h12dtvt2cqt1is7sprcqe90dro3d6e2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
